@@ -130,7 +130,7 @@ function Hero() {
 
           <div>
             <h3 className="text-3xl font-bold text-blue-600">
-              3+
+              2+
             </h3>
             <p className="text-gray-600 mt-2">
               Internships

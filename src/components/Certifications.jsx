@@ -20,6 +20,11 @@ function Certifications() {
       title: "Java Using DSA",
       issuer: "Giri's Tech Hub Pvt Ltd",
     },
+
+    {
+    title: "AWS GenAI Hackathon Participant",
+    issuer: "Zensar & AWS",
+  },
   ];
 
   return (
